@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=QuickLook
+Comment=Quick Look file preview for KDE Dolphin
+Exec=/home/%u/.local/bin/dolphin-quicklook.sh
+Icon=zoom-fit-best
+Categories=Utility;
+NoDisplay=true

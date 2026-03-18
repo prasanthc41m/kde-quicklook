@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/all;
+Actions=quicklook
+X-KDE-Priority=TopLevel
+
+[Desktop Action quicklook]
+Name=Quick Look
+Icon=zoom-fit-best
+Exec=kde-quicklook %f

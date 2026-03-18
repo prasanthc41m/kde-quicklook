@@ -1,0 +1,11 @@
+/home/prasanth/Downloads/kde-quicklook-pkg/build/CMakeFiles/uninstall.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/CMakeFiles/fetch-translations.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/CMakeFiles/test.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/CMakeFiles/edit_cache.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/CMakeFiles/rebuild_cache.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/src/CMakeFiles/kde-quicklook.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/src/CMakeFiles/test.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/src/CMakeFiles/edit_cache.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/src/CMakeFiles/rebuild_cache.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/src/CMakeFiles/kde-quicklook_autogen_timestamp_deps.dir
+/home/prasanth/Downloads/kde-quicklook-pkg/build/src/CMakeFiles/kde-quicklook_autogen.dir

@@ -1,0 +1,7 @@
+kde-quicklook_autogen/timestamp: \
+	/home/prasanth/Downloads/kde-quicklook-pkg/src/CMakeLists.txt \
+	/home/prasanth/Downloads/kde-quicklook-pkg/src/quicklook.cpp \
+	/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
+	/usr/share/cmake/Modules/FindPackageMessage.cmake \
+	/usr/share/cmake/Modules/FindPkgConfig.cmake \
+	/usr/bin/cmake

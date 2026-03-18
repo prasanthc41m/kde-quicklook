@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+3302118e774b158ddb4bb04ee2220ffa CMakeFiles/fetch-translations
+5540a980b42cb35d5e12b3c7898d567f CMakeFiles/uninstall
+ca22d84ce403bb632b1ca916d4ee70c8 releaseme
+ac1dd7a4686d9439d51f0747f962ec1a src/CMakeFiles/kde-quicklook_autogen
+226d33e8eebfc3f6871b6cf5182cf030 src/kde-quicklook_autogen/timestamp
