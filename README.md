@@ -21,7 +21,7 @@ Select any file in Dolphin, press your shortcut key, and instantly preview it.
 ## Requirements
 
 - KDE Plasma 6
-- Fedora Linux (tested on Fedora 41+)
+- Fedora Linux (tested on Fedora 43)
 - Dolphin file manager
 - Wayland session
 
