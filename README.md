@@ -5,6 +5,9 @@ Select any file in Dolphin, press your shortcut key, and instantly preview it.
 
 ---
 
+![Alt text](demo.gif)
+
+---
 ## Features
 
 - 🖼 Image preview (JPEG, PNG, WebP, and more) with dimensions in metadata bar
