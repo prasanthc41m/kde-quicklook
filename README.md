@@ -50,6 +50,8 @@ sudo dnf install -y \
 
 ## Installation
 ```bash
+git clone https://github.com/prasanthc41m/kde-quicklook
+
 make install
 ```
 
